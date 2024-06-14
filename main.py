@@ -204,7 +204,7 @@ def OpenFile(b4):
     return
 
 
-
+#here is main file
 if __name__ == "__main__":
     model = train_model()
     model.train()
